@@ -10,4 +10,4 @@
 * I then began making analysis to show the different relationships between different columns in the different datasets.
 
 ### Future work / Improvement plans
-* I plan on finding more data with more features so I can get deeper insight on the effect of covid 19 in Nigeria.
+* I plan on finding more datasets with more features so I can get deeper insight on the effect of covid 19 in Nigeria.
