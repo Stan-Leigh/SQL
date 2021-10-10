@@ -8,3 +8,6 @@
 * I used the Nigeria Community Vulnerability Index data that shows the vulnerability index computed by considering several factors such as socio-economic status, population density, housing type, transportation, epidemiological, health system etc.
 * I used a dataset that provided the real domestic gross product for Nigeria.
 * I then began making analysis to show the different relationships between different columns in the different datasets.
+
+### Future work / Improvement plans
+* I plan on finding more data with more features so I can get deeper insight on the effect of covid 19 in Nigeria.
